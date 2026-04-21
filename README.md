@@ -128,7 +128,3 @@ sudo ovs-ofctl dump-flows s1
 This project demonstrates how network delay can be measured using RTT and how SDN dynamically controls packet forwarding. It also shows how network conditions impact latency.
 
 ---
-
-## 👩‍💻 Author
-
-Aarushi Singh
